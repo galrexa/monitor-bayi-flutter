@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026596677029",
+    "project_id": "alarm-bayi-project",
+    "storage_bucket": "alarm-bayi-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026596677029:android:adc18d8019548b9e1bf44c",
+        "android_client_info": {
+          "package_name": "com.example.alarm_bayi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhlD5WbZMLEuAvL4EFY0kN5J_ZzS6yz8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
