@@ -22,7 +22,7 @@ Aplikasi Flutter untuk sistem alarm bayi dengan Firebase Authentication.
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/alarm-bayi-flutter.git
+git clone https://github.com/galrexa/monitor-bayi-flutter.git
 cd alarm-bayi-flutter
 ```
 
